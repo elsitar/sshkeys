@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/dpecos/sshkeys/config"
-	"github.com/dpecos/sshkeys/utils"
+	"github.com/elsitar/sshkeys/config"
+	"github.com/elsitar/sshkeys/utils"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )

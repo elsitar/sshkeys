@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	config "github.com/dpecos/sshkeys/config"
+	config "github.com/elsiatr/sshkeys/config"
 
 	scp "github.com/bramvdbogaerde/go-scp"
 	"github.com/bramvdbogaerde/go-scp/auth"
